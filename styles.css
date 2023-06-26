@@ -1,0 +1,16 @@
+
+
+body{
+    background-color:#352f44;
+    text-align:center;
+    color:whitesmoke;
+    font-family:'Ysabeau Infant', sans-serif;
+}
+
+.container{
+    max-width: 900px;
+    margin:100px auto;
+    padding:25px;
+    border-radius: 5px;
+    background-color: #a2a8d3;
+}
